@@ -94,9 +94,7 @@ The website should be responsive and work well on a variety of devices and scree
 
 ================================================================
 
-## 🛠️ Implementation
-
-## 🌳 Feature Branches
+## 🛠️ Implementation by Feature Branches 🌳
 
 ### 1. `feature/admin-login`
 
